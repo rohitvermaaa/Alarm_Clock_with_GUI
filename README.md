@@ -1,4 +1,3 @@
-Sure, here's a sample README.md file for your Python Alarm Clock application:
 
 # Python Alarm Clock
 
